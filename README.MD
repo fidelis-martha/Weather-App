@@ -4,8 +4,8 @@
 A responsive weather application that provides real-time weather information based on your current location or a searched city.
 ## Live Demo
 
-- **Live Application:** https://weather-app-frontend-x0z2.onrender.com/
-- **Demo Video:** [Watch Project Demo](YOUR_VIDEO_LINK)
+- **Live Application:** [Weather App](https://weather-app-frontend-x0z2.onrender.com/)
+- **Demo Video:** [Watch Project Demo](https://screenapp.io/app/share/M2a8ioYCCJVRvPX1h7Jf7czJ)
 
 ## Features
 
