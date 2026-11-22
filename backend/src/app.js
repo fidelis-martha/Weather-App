@@ -1,7 +1,9 @@
 
 const express = require("express");
-
+const cors = require("cors");
 const app = express();
+
+app.use(cors());
 
 const weatherRoutes = require("./routes/weatherRoutes");
 const errorHandler = require("./middleware/errorHandler");
